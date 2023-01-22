@@ -19,6 +19,7 @@ function new_image(get_image){
 			top:block_y,
 			left:block_x
 		});
+		canvas.add(block_image_object);
 	});
 }
 
